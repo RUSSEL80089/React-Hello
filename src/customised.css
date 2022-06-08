@@ -1,0 +1,17 @@
+div {
+    width: 100%;
+    margin: auto;
+}
+
+.text-muted:last-of-type {
+    margin-bottom: 16px;
+}
+
+.cardListHeading {
+    color: lightcoral;
+    margin-bottom: 0;
+}
+
+h1 {
+    text-align: center;
+}
